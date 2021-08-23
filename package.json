@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "three": "^0.131.3",
+    "troika-three-text": "^0.42.0",
+    "webpack": "^5.51.1"
+  }
+}
